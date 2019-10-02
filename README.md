@@ -1,6 +1,6 @@
-# Readibility.js Test - Prase webpage main content
+# Scrape any webpage into reader mode 
 
-Experiment on parsing webpages into Reader Mode making use of [Readability.js](https://github.com/).
+Experiment on scraping webpages into Reader Mode making use of [Readability.js](https://github.com/).
 
 ## Example
 
