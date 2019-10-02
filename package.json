@@ -1,0 +1,16 @@
+{
+  "name": "readability-ankan",
+  "version": "0.0.1",
+  "description": "Example of using Readability.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "author": "Andy Kan",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^15.1.1",
+    "readability": "file:readability-master"
+  }
+}
